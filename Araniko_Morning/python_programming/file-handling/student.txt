@@ -1,0 +1,20 @@
+--------RESULT---------
+Name: Anish Dahal
+Roll No: 007
+-------- Marks --------
+physics: 78.0
+Chemistry: 76.0
+Math: 89.0
+---------Final Score-------
+Percentage: 81.0
+Grade: B
+--------RESULT---------
+Name: Anshu Karki
+Roll No: 004
+-------- Marks --------
+physics: 94.0
+Chemistry: 89.0
+Math: 78.0
+---------Final Score-------
+Percentage: 87.0
+Grade: B
