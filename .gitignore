@@ -1,7 +1,9 @@
 
 mlenv/
+dayenv/
 __pycache__/
 *.pyc
+
 
 .vscode/
 .idea/
