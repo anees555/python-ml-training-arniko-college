@@ -1,3 +1,5 @@
 B001,book1,author1,4
 id01,the idiot,dostoevsky,4
 b0022,title3,author3,4
+b00022,title12,author12,22
+new22,newtitle22,newauthor22,12
